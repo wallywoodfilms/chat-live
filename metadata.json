@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Live Chat",
+  "description": "A real-time chat web application inspired by WhatsApp, featuring friend requests, real-time messaging, and a responsive design. All data is persisted locally in your browser.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
